@@ -45,8 +45,8 @@
 ## 🔥 Componentes criados
 
 - [X] Componente Header
-- [X] Component Sidebar
-- [X] Component Content
+- [X] Componente Sidebar
+- [X] Componente Content
 
 ## 📄 Licença
 
